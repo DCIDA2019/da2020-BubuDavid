@@ -1,7 +1,7 @@
 # Pendulo simple:
 En esta actividad, se trabajó en la resolución a la ecuación diferencial de un péndulo simple:
 
-$ \ddot{\theta} + \omega \theta = 0 $
+![Equation](/equation.png)
 
 * Primero elaboré un código "Plano" en donde hice uso de mis "skills" como programador y se llegó a una aproximación por el método Runge Kutta para un sistema de ecuaciones.
 Usando ciclos y cosas de **Python** básico, sin usar nada de **Numpy** excepto el valor de pi y el coseno.
