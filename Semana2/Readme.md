@@ -7,3 +7,5 @@
 >3.- Crear una sola base de datos que tenga todas las tablas de los archivos anteriores (usando las herramientas aprendidas en 2). Haz una para la temperatura, y otra para las lluvias. 
 
 
+# Conclusión:
+Aunque realmente no me fue posible realizar todos los ejemplos del capítulo 3 con los datos descargados en la actividad *1*, aprendí bastantes haciendo la actividad *3*. Y con mucha alegría anuncio que logré crear una sola base de datos donde están las lluvias y las temperaturas juntas, en ¡UN SOLO ARCHIVO! lo cual me comió la cabeza un poco y no supe como hacerlo sin la necesidad de crear un diccionario de más de 600 elementos, hasta que descubrí como hacerlo y simplemente fue cambiando el nombre de algunas columnas y eliminando otras en la base de datos de lluvias. :yum:
