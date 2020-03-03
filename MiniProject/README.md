@@ -1,1 +1,0 @@
-¡SUPER NOTA! Algunas gráficas no se ven en Github, desconozco las razones, pero si usted hace un clone y lo corre en su computadora, todo saldrá muy bien, las gráficas saLdrán justo como en el reporte, gracias ;)
